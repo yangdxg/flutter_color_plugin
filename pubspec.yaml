@@ -6,7 +6,7 @@ version: 0.0.1
 #作者
 author: yangdxg <yangdxg@163.com>
 #仓库github地址
-homepage:
+homepage: https://github.com/yangdxg/flutter_color_plugin
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
